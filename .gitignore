@@ -3,4 +3,4 @@
 
 # But not these files...
 !.gitignore
-!./scripts/installs/vsc_extensions.sh
+!scripts/installs/vsc_extensions.sh
