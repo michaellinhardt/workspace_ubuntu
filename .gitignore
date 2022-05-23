@@ -3,6 +3,9 @@
 
 # But not these files...
 !.gitignore
+
+# scripts folder
 !scripts/
+!scripts/*
 !scripts/installs/
 !scripts/installs/*
