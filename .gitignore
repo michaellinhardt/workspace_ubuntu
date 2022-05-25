@@ -7,5 +7,10 @@
 # scripts folder
 !scripts/
 !scripts/*
-!scripts/installs/
-!scripts/installs/*
+!scripts/**
+
+# zsh
+!.zshrc
+!.config/
+!.config/zsh/
+!.config/zsh/*
