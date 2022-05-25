@@ -1,0 +1,11 @@
+# ZSH / OH MY ZSH
+source ~/.config/zsh.zsh
+
+# NVM
+source ~/.config/nvm.zsh
+
+# GIT
+source ~/.config/git.zsh
+
+# ALIAS
+source ~/.config/alias.zsh
