@@ -17,4 +17,4 @@ alias grebase="git fetch && git rebase && git pull"
 alias gsub="git submodule update --init"
 
 # DKT WORK
-start_healdless_beauty () { cd ~/dkt/headless-beauty-international && nvm use 12.22.10 && npm run dev }
+start_healdless_beauty () { cd ~/dkt/frontend/headless-beauty-international && nvm use 12.22.10 && npm run dev }
